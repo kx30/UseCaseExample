@@ -1,0 +1,5 @@
+include ':usecase'
+include ':gateway'
+include ':domain'
+include ':app'
+rootProject.name = "UseCaseExample"
